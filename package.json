@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/mozilla/lightbeam-we/blob/master/README.md",
   "dependencies": {
-    "d3": "4.9.1",
+    "d3": "7.0.0",
     "dexie": "^2.0.0-beta"
   },
   "devDependencies": {
